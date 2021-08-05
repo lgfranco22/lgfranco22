@@ -6,7 +6,41 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCejAeXDZUr2IzaoC6-JA9RQ)](https://www.youtube.com/channel/UCejAeXDZUr2IzaoC6-JA9RQ)
 
 ### Sobre
-Desenvolvedor back-end com principal foco em PHP.
 
-- [Website](https://www.francosinformatica.com) 💻.
+```
+Desenvolvedor PHP
+```
+## 📦 Conhecimento nas linguagens
+
+* HTML
+* CSS
+* JS
+* PHP
+* SQL
+* C
+* C++
+* Assembly
+* Perl
+* Bat
+* Bash
+* Python
+* C#
+
+## ⚙️ Conhecimento nas aplicações
+
+* PHPMyAdmin
+* Mysql
+* MariaDB
+* SQLServer
+* Apache
+* Google Firebase
+* Debian
+* Apache
+
+## 📋 Contato
+- [Facebook](https://www.facebook.com/francosinformatica)
+- [Instagram](https://www.instagram.com/francosinformatica)
+- [Twitter](https://www.twitter.com/lgfranco24)
+- [Linkedin](https://www.linkedin.com/m/luizgonzagafrancom)
+- [Website](https://www.francosinformatica.com)
 - [WhatsApp](https://wa.me/5519996496681)
