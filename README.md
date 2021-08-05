@@ -5,11 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgfranco24)](https://twitter.com/lgfranco24)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCejAeXDZUr2IzaoC6-JA9RQ)](https://www.youtube.com/channel/UCejAeXDZUr2IzaoC6-JA9RQ)
 
-### Sobre
-
-```
-Desenvolvedor PHP
-```
 ## 📦 Conhecimento nas linguagens
 
 * HTML
