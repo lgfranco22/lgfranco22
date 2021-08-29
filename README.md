@@ -20,6 +20,7 @@
 * Bash
 * Python
 * C#
+* Entre outras...
 
 ## ⚙️ Conhecimento nas aplicações
 
@@ -31,6 +32,29 @@
 * Google Firebase
 * Debian
 * Apache
+* Entre outras...
+
+## ⚙️ Conhecimento nos protocólos
+
+* IP
+* HTTP
+* FTP
+* FTPS
+* SCP
+* SSH
+* ARP
+* TCP
+* UDP
+* SMTP
+* POP
+* IMAP
+* DHCP
+* WEP
+* WPA
+* WPA2
+* ICMP
+* Entre outros...
+
 
 ## 📋 Contato
 - [Facebook](https://www.facebook.com/francosinformatica)
