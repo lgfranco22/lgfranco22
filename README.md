@@ -32,6 +32,7 @@
 * Google Firebase
 * Debian
 * Apache
+* AWS
 * Entre outras...
 
 ## ⚙️ Conhecimento nos protocólos
